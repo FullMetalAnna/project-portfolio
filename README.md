@@ -1,6 +1,6 @@
 # Project Portfolio
 
-This project is inspiration from [FreeCodeCamp](https://www.freecodecamp.org/news) tutoriol made by [Slobodan Gajic](https://www.youtube.com/watch?v=bmpI252DmiI&list=LL&index=3)
+This project is inspiration from [FreeCodeCamp](https://www.freecodecamp.org/news) tutoriol inspiration from [Slobodan Gajic](https://www.youtube.com/watch?v=bmpI252DmiI&list=LL&index=3)
 
 ![project](https://user-images.githubusercontent.com/55837343/170484528-a6a00676-c10f-43e9-871a-71e98f6a0a4a.png)
 
